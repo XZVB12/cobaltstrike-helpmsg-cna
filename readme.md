@@ -11,7 +11,7 @@ beacon> help helpmsg
 
 Usage: helpmsg <code> [mode]
    code: The numerical code to search for. Prepend '0x' to the code to treat the code as a hex value
-   mode: Can be 'win32', 'hresult', 'or 'ntstatus'. Default = 'win32'
+   mode: Can be 'win32', 'hresult', or 'ntstatus'. Default = 'win32'
 
 beacon> helpmsg 53
 [+] 
