@@ -2,6 +2,8 @@
 
 This cna contains error messages for Win32 error codes, HRESULT defintions, and NTSTATUS definitions. This cna can be helpful for those operating out of linux/mac clients without access to the net.exe program, or as a quick way to looking hresult/ntstatus codes without having to do a google search.
 
+The search is performmed against a dictionary stored within the cna script, nothing is executed on target.
+
 ## Example
 
 ```
