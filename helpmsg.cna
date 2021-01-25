@@ -7521,6 +7521,8 @@ sub printhelpmsg
 beacon_command_register(
 	"helpmsg",
 	"Displays information about a Win32 Error Code, HRESULT, or NTSTATUS",
-	"Usage: helpmsg <code> [mode]
+	"
+Usage: helpmsg <code> [mode]
    code: The numerical code to search for. Prepend '0x' to the code to treat the code as a hex value
-   mode: Can be 'win32', 'hresult', 'or 'ntstatus'. Default = 'win32'");
+   mode: Can be 'win32', 'hresult', 'or 'ntstatus'. Default = 'win32'
+");
